@@ -2,6 +2,8 @@
 
 ## 1. Ma formation
 
-### MASTER MAS - Université de Rennes 1 et 2 
+MASTER MAS - Université de Rennes 1 et 2 
 
-### Licence MIASHS - Université de Rennes 1 et 2 ![logo](https://intranet.univ-rennes2.fr/sites/default/files/resize/UHB/SERVICE-COMMUNICATION/logor2-noir-150x147.png)
+Licence MIASHS - Université de Rennes 1 et 2
+
+![logo](https://intranet.univ-rennes2.fr/sites/default/files/resize/UHB/SERVICE-COMMUNICATION/logor2-noir-150x147.png)
